@@ -1,0 +1,18 @@
+#create-car {
+    background-color: rgb(243, 239, 239);
+    padding: 20px 0;
+    min-height: 80vh;
+}
+
+#car-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#car-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 10px;
+}

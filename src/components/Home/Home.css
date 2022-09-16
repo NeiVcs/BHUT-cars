@@ -1,0 +1,39 @@
+#home {
+    background-color: rgb(243, 239, 239);
+    padding-top: 20px;
+    min-height: 80vh;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 1px 1px 1px rgb(141, 141, 141);
+}
+
+.car-brand {
+    display: flex;
+    margin: 0px;
+    color: gray;
+    font-size: 15px;
+}
+
+.car-title {
+    margin: 0px;
+    font-weight:bold;
+    font-size: 35px;
+}
+
+.car-price {
+    display: flex;
+    margin: 0px;
+    color: red;
+    font-weight:bold;
+    font-size: 35px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+}
+
+
